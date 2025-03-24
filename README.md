@@ -7,4 +7,7 @@ Stock Prediction Model
 python main.py
 ```
 
-in collaboration with Richard Wicaksono and Minh Cao
+
+
+
+in collaboration with Richard Wicaksono and Michael Cao
