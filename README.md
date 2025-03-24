@@ -1,4 +1,4 @@
-This is the repo for CS 273 class project
+Stock Prediction Model
 
 
 - to run the code, run in the command line 
@@ -6,3 +6,5 @@ This is the repo for CS 273 class project
 ```
 python main.py
 ```
+
+in collaboration with Richard Wicaksono and Minh Cao
